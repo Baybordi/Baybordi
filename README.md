@@ -1,56 +1,19 @@
 ## Hi there 👋
 <table>
   <tr>
-    <td style="width: 60%; vertical-align: top;">
-      <!-- Skills Section -->
+    <td style="width: 70%; vertical-align: top;">
+      <!-- Skills Section (Two-line Compact) -->
       <h3>My Skills</h3>
-      <h4>Programming & Scripting:</h4>
-      <ul>
-        <li>Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch</li>
-      </ul>
-      <h4>Machine Learning & Deep Learning:</h4>
-      <ul>
-        <li>Supervised Learning: Linear Regression, Logistic Regression, OLS, SVM, Naïve Bayes, KNN, Decision Trees, Random Forest, Gradient Boosting (XGBoost, LightGBM)</li>
-        <li>Neural Networks: CNN, RNN, LSTMs</li>
-      </ul>
-      <!-- Add the rest of your skills here -->
+      <p><strong>Programming & Scripting:</strong> Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch) | <strong>Machine Learning & Deep Learning:</strong> Linear Regression, Logistic Regression, SVM, Naïve Bayes, KNN, Random Forest, XGBoost, LightGBM, CNN, RNN, LSTMs</p>
+      <p><strong>Data Engineering:</strong> SQL, MongoDB | <strong>Cloud & Big Data:</strong> AWS (EC2, S3, Glue, SageMaker) | <strong>Visualization & BI:</strong> Power BI, Tableau, Plotly</p>
     </td>
-    <td style="width: 40%; text-align: center;">
-      <!-- Banner Section -->
-      <img src="https://github.com/Baybordi/Baybordi/blob/main/Featured-Images-8.png?raw=true" alt="Banner Image" width="400"/>
+    <td style="width: 30%; text-align: center;">
+      <!-- Banner Section (Image) -->
+      <img src="https://github.com/Baybordi/Baybordi/blob/main/Featured-Images-8.png?raw=true" alt="Banner Image" width="250"/>
     </td>
   </tr>
 </table>
 
-### My Skills
-
-#### Programming & Scripting:
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch
-
-#### Machine Learning & Deep Learning:
-- **Supervised Learning**: Linear Regression, Logistic Regression, OLS, SVM, Naïve Bayes, KNN, Decision Trees, Random Forest, Gradient Boosting (XGBoost, LightGBM)
-- **Neural Networks**: CNN, RNN, LSTMs
-
-#### Natural Language Processing (NLP) & Large Language Models (LLMs):
-- NLTK, TF-IDF, Word2Vec, BERT, ALBERT, Transformer-based models
-
-#### Cloud & Big Data:
-- **AWS**: EC2, S3, Glue, Athena, SageMaker, EMR
-- **Google Cloud**: BigQuery, Dataflow
-- **Big Data**: PySpark, Databricks
-
-#### Data Engineering & Analytics:
-- **Web Scraping**: Selenium, BeautifulSoup
-- **ETL Pipelines**
-
-#### Database Management:
-- SQL, MongoDB
-
-#### Visualization & Business Intelligence:
-- Power BI, Tableau, Plotly, Stimulsoft
-
-#### Project Management:
-- Project Server, SharePoint Server, Jira, MS Project, PMBOK, PMI Standards, Agile
 
 
 
