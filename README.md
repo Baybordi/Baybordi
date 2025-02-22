@@ -9,7 +9,7 @@
     </td>
     <td style="width: 30%; text-align: center;">
       <!-- Banner Section (Image) -->
-      <img src="https://github.com/Baybordi/Baybordi/blob/main/Featured-Images-8.png?raw=true" alt="Banner Image" width="300" height="150"/>
+      <img src="https://github.com/Baybordi/Baybordi/blob/main/Featured-Images-8.png?raw=true" alt="Banner Image" width="300" height="350"/>
     </td>
   </tr>
 </table>
