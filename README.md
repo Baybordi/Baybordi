@@ -1,7 +1,7 @@
 ## Hi there 👋
 <table>
   <tr>
-    <td style="width: 70%; vertical-align: top;">
+    <td style="width: 70%; vertical-align: top; font-size: 14px;">
       <!-- Skills Section (Two-line Compact) -->
       <h3>My Skills</h3>
       <p><strong>Programming & Scripting:</strong> Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch) | <strong>Machine Learning & Deep Learning:</strong> Linear Regression, Logistic Regression, SVM, Naïve Bayes, KNN, Random Forest, XGBoost, LightGBM, CNN, RNN, LSTMs</p>
@@ -9,10 +9,11 @@
     </td>
     <td style="width: 30%; text-align: center;">
       <!-- Banner Section (Image) -->
-      <img src="https://github.com/Baybordi/Baybordi/blob/main/Featured-Images-8.png?raw=true" alt="Banner Image" width="400"/>
+      <img src="https://github.com/Baybordi/Baybordi/blob/main/Featured-Images-8.png?raw=true" alt="Banner Image" width="300" height="150"/>
     </td>
   </tr>
 </table>
+
 
 
 
