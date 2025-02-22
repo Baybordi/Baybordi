@@ -22,6 +22,35 @@
   </tr>
 </table>
 
+### My Skills
+
+#### Programming & Scripting:
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch
+
+#### Machine Learning & Deep Learning:
+- **Supervised Learning**: Linear Regression, Logistic Regression, OLS, SVM, Naïve Bayes, KNN, Decision Trees, Random Forest, Gradient Boosting (XGBoost, LightGBM)
+- **Neural Networks**: CNN, RNN, LSTMs
+
+#### Natural Language Processing (NLP) & Large Language Models (LLMs):
+- NLTK, TF-IDF, Word2Vec, BERT, ALBERT, Transformer-based models
+
+#### Cloud & Big Data:
+- **AWS**: EC2, S3, Glue, Athena, SageMaker, EMR
+- **Google Cloud**: BigQuery, Dataflow
+- **Big Data**: PySpark, Databricks
+
+#### Data Engineering & Analytics:
+- **Web Scraping**: Selenium, BeautifulSoup
+- **ETL Pipelines**
+
+#### Database Management:
+- SQL, MongoDB
+
+#### Visualization & Business Intelligence:
+- Power BI, Tableau, Plotly, Stimulsoft
+
+#### Project Management:
+- Project Server, SharePoint Server, Jira, MS Project, PMBOK, PMI Standards, Agile
 
 
 
