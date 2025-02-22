@@ -1,5 +1,8 @@
 ## Hi there 👋
 ![Banner Image](https://github.com/Baybordi/Baybordi/blob/main/Featured-Images-8.png?raw=true)
+<img src="https://github.com/Baybordi/Baybordi/blob/main/Featured-Images-8.png?raw=true" alt="Banner Image" width="50" height="50"/>
+
+
 
 
 <!--
