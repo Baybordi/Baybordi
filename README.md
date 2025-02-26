@@ -83,6 +83,17 @@
 
 </details>
 
+<details>
+  <summary><strong>🔹 Financial & Forex Market Prediction</strong></summary>
+
+  - **Time Series Analysis:** Used **LSTM & GRU** networks to predict forex trends based on historical data.  
+  - **Feature Engineering:** Extracted critical **macroeconomic indicators, sentiment analysis from news, and technical indicators** to enhance model performance.  
+  - **Automated Trading Signals:** Developed a **real-time predictive system** that generates buy/sell signals based on ML-driven insights.  
+  - **Live Data Integration:** Integrated **Yahoo Finance API** to fetch real-time forex market data for continuous model updating.  
+  - **Risk Management:** Implemented **volatility-adjusted stop-loss strategies** to improve trading accuracy and mitigate financial risk.  
+  - **Performance Metrics:** Achieved **+10% higher accuracy** than traditional moving average strategies, optimizing trade profitability.  
+
+</details>
 
 ---
 ### 🌐 Cloud Project:  
