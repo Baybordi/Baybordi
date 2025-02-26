@@ -1,3 +1,11 @@
+## 👋 Hi there, I'm [Your Name]  
+
+🔹 **Data Scientist | Machine Learning Engineer | MLOps Enthusiast**  
+🔹 **Passionate about AI, Deep Learning, and Scalable Data Solutions**  
+🔹 **Experienced in Python, Machine Learning, Cloud Deployment & Automation**  
+
+<hr>
+
 ## Hi there 👋
 
 <table>
@@ -51,4 +59,4 @@
 ### 📬 Get in Touch:
 - 📧 Email: [negarbaibordiii@gmail.com](mailto:negarbaibordiii@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/negar-baybordi-datascientist/)
-- 🌐 [AWS EC2 Instance](http://184.73.73.101:8889/tree?)
+
