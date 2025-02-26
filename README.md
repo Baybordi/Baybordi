@@ -1,62 +1,72 @@
-## 👋 Hi there, I'm [Your Name]  
+## 👋 Hi there,
 
 🔹 **Data Scientist | Machine Learning Engineer | MLOps Enthusiast**  
 🔹 **Passionate about AI, Deep Learning, and Scalable Data Solutions**  
 🔹 **Experienced in Python, Machine Learning, Cloud Deployment & Automation**  
 
-<hr>
+---
 
-## Hi there 👋
+## 💻 My Skills
 
-<table>
-  <tr>
-    <td style="width: 60%; vertical-align: top; font-size: 5px; padding-right: 20px;">
-      <!-- Skills Section (Two-line Compact) -->
-      <h3 style="font-size: 8px; margin-bottom: 10px;">My Skills</h3>
-      <p><strong>Programming & Scripting:</strong> Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch)</p>
-      <p><strong>Machine Learning & Deep Learning:</strong> Linear Regression, Logistic Regression, SVM, Naïve Bayes, KNN, Random Forest, XGBoost, LightGBM, CNN, RNN, LSTMs</p>
-      <p><strong>Data Engineering:</strong> SQL, MongoDB</p>
-      <p><strong>Cloud & Big Data:</strong> AWS (EC2, S3, Glue, SageMaker), PySpark</p>
-      <p><strong>Visualization & BI:</strong> Power BI, Tableau, Plotly</p>
-    </td>
-    <td style="width: 40%; text-align: center;">
-      <!-- Banner Section (Image) -->
-      <img src="https://github.com/Baybordi/Baybordi/blob/main/Featured-Images-8.png?raw=true" alt="Banner Image" width="400" height="250" style="border-radius: 10px;"/>
-    </td>
-  </tr>
-</table>
+### 🧑‍💻 Programming & Scripting Languages
+- **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- **SQL** ![SQL](https://img.shields.io/badge/SQL-blue)
+- **R** ![R](https://img.shields.io/badge/R-blue?style=flat&logo=r&logoColor=white)
+  
+---
 
-<hr>
+### ⚙️ Machine Learning & Deep Learning
+- **Supervised Learning:** Linear Regression, Logistic Regression, SVM, KNN  
+- **Unsupervised Learning:** K-means, Hierarchical Clustering, PCA  
+- **Deep Learning:** CNN, RNN, LSTMs, GANs, Transformers  
+- **Libraries & Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-yellowgreen?style=flat&logo=scikit-learn&logoColor=white)
+
+---
+
+### 🧑‍🔧 Data Engineering
+- **Databases:** MySQL, MongoDB, PostgreSQL, SQLite  
+- **Data Pipelines:** Apache Airflow, Apache Kafka, Luigi
+
+---
+
+### ☁️ Cloud Platforms & Big Data
+- **Cloud Computing:** AWS (S3, EC2, SageMaker, Lambda), Azure  
+- **Big Data:** Apache Hadoop, Apache Spark, PySpark ![PySpark](https://img.shields.io/badge/PySpark-red?style=flat&logo=apache-spark&logoColor=white)
+  
+---
+
+### 📊 Data Visualization & BI Tools
+- **Power BI** ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=powerbi&logoColor=white)
+- **Tableau** ![Tableau](https://img.shields.io/badge/Tableau-blue?style=flat&logo=tableau&logoColor=white)
+- **Plotly** ![Plotly](https://img.shields.io/badge/Plotly-purple?style=flat&logo=plotly&logoColor=white)
+
+---
+
+### 🔧 MLOps & Deployment
+- **Tools & Frameworks:** Docker, Kubernetes, MLflow, TensorFlow Serving, BentoML  
+- **CI/CD:** Jenkins, GitHub Actions, CircleCI  
+- **Cloud Deployment:** AWS Sagemaker, Azure Machine Learning
+  
+---
+
+### 🏆 Notable Tools & Libraries
+- **ML Libraries:** XGBoost ![XGBoost](https://img.shields.io/badge/XGBoost-brightgreen?style=flat&logo=xgboost&logoColor=white), LightGBM, CatBoost  
+- **Data Preprocessing:** Pandas, NumPy, Seaborn  
+- **NLP:** NLTK, SpaCy, Transformers, Gensim
+
+---
 
 ### 💼 My Experience:
 ✅ Developed predictive models with **90%+ accuracy**  
 ✅ Optimized ML models using **hyperparameter tuning & feature selection**  
 ✅ Built **automated ML pipelines** with Scikit-learn & TensorFlow  
 
-<hr>
+---
 
-### 📊 Statistics & Exploratory Data Analysis (EDA):
-**Proficient in:**  
-- Statistical Analysis  
-- Data Cleaning  
-- Outlier Detection  
-- Hypothesis Testing  
+### 📊 Statistics & Exploratory Data Analysis (EDA)
+**Proficient in:** Statistical Analysis, Data Cleaning, Outlier Detection, Hypothesis Testing  
 
-<hr>
+---
 
-### 🚀 Notable Projects:
-- **[Customer Segmentation](https://github.com/Baybordi/Customer-Segmentation)**
-- **[Stock Price Prediction](https://github.com/Baybordi/Stock-Price-Prediction)**
-- **[Data Dashboard](https://github.com/Baybordi/Data-Dashboard)**
-
-<hr>
-
-### 🌐 Cloud Online Project:
-- [AWS EC2 Instance](http://184.73.73.101:8889/tree?) 
-
-<hr>
-
-### 📬 Get in Touch:
-- 📧 Email: [negarbaibordiii@gmail.com](mailto:negarbaibordiii@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/negar-baybordi-datascientist/)
-
+### 🌐 Cloud Project:  
+**AWS EC2 Instance** - [Link to your cloud project](http://184.73.73.101:8889/tree?)
