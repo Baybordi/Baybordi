@@ -68,5 +68,20 @@
 
 ---
 
+
+## 🚀 Projects
+
+<details>
+  <summary><strong>🔹 Bug Classification and Prioritization</strong></summary>
+  
+  - **Data Labeling:** Manually labeled **400+ records** to create a high-quality training dataset.  
+  - **Multiple ML Approaches:** Implemented **RNN, LSTM, TF-IDF with ML models, and ALBERT embeddings with Random Forest** to find the most effective classification method.  
+  - **Custom Classification System:** Designed a **5-category bug classification model**, improving dataset usability.  
+  - **Class Imbalance Handling:** Generated additional samples for underrepresented categories to enhance model training.  
+  - **Data Cleaning & Refinement:** Improved dataset quality by replacing misleading words, enhancing **class representation** and **model accuracy**.  
+  - **Performance Improvement:** Achieved **80% accuracy** using **ALBERT embeddings with Random Forest**, significantly outperforming traditional methods.  
+
+</details>
+
 ### 🌐 Cloud Project:  
 **AWS EC2 Instance** - [Link to your cloud project](http://184.73.73.101:8889/tree?)
