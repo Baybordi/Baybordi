@@ -1,4 +1,3 @@
-
 ## Hi there 👋
 
 <table>
@@ -28,13 +27,28 @@
 
 <hr>
 
+### 📊 Statistics & Exploratory Data Analysis (EDA):
+**Proficient in:**  
+- Statistical Analysis  
+- Data Cleaning  
+- Outlier Detection  
+- Hypothesis Testing  
+
+<hr>
+
 ### 🚀 Notable Projects:
 - **[Customer Segmentation](https://github.com/Baybordi/Customer-Segmentation)**
 - **[Stock Price Prediction](https://github.com/Baybordi/Stock-Price-Prediction)**
 - **[Data Dashboard](https://github.com/Baybordi/Data-Dashboard)**
 
+<hr>
+
+### 🌐 Cloud Online Project:
+- [AWS EC2 Instance](http://184.73.73.101:8889/tree?) 
+
+<hr>
+
 ### 📬 Get in Touch:
 - 📧 Email: [negarbaibordiii@gmail.com](mailto:negarbaibordiii@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/negar-baybordi-datascientist/)
 - 🌐 [AWS EC2 Instance](http://184.73.73.101:8889/tree?)
-
