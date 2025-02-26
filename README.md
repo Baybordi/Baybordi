@@ -1,4 +1,6 @@
+
 ## Hi there 👋
+
 <table>
   <tr>
     <td style="width: 60%; vertical-align: top; font-size: 5px; padding-right: 20px;">
@@ -19,28 +21,20 @@
 
 <hr>
 
-### Notable Projects:
+### 💼 My Experience:
+✅ Developed predictive models with **90%+ accuracy**  
+✅ Optimized ML models using **hyperparameter tuning & feature selection**  
+✅ Built **automated ML pipelines** with Scikit-learn & TensorFlow  
+
+<hr>
+
+### 🚀 Notable Projects:
 - **[Customer Segmentation](https://github.com/Baybordi/Customer-Segmentation)**
 - **[Stock Price Prediction](https://github.com/Baybordi/Stock-Price-Prediction)**
 - **[Data Dashboard](https://github.com/Baybordi/Data-Dashboard)**
 
-### Get in Touch:
+### 📬 Get in Touch:
 - 📧 Email: [negarbaibordiii@gmail.com](mailto:negarbaibordiii@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/negar-baybordi-datascientist/)
 - 🌐 [AWS EC2 Instance](http://184.73.73.101:8889/tree?)
 
-
-<!--
-**Baybordi/Baybordi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
