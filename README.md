@@ -11,7 +11,6 @@
 ### 🧑‍💻 Programming & Scripting Languages
 - **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - **SQL** ![SQL](https://img.shields.io/badge/SQL-blue)
-- **R** ![R](https://img.shields.io/badge/R-blue?style=flat&logo=r&logoColor=white)
   
 ---
 
