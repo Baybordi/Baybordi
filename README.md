@@ -23,9 +23,8 @@
 ---
 
 ### 🧑‍🔧 Data Engineering
-- **Databases:** MySQL, MongoDB, PostgreSQL, SQLite  
-- **Data Pipelines:** Apache Airflow, Apache Kafka, Luigi
-
+- **Databases:** MySQL, MongoDB 
+  
 ---
 
 ### ☁️ Cloud Platforms & Big Data
