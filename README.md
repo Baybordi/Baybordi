@@ -43,7 +43,7 @@
 ### 🏆 Notable Tools & Libraries
 - **ML Libraries:** XGBoost ![XGBoost](https://img.shields.io/badge/XGBoost-brightgreen?style=flat&logo=xgboost&logoColor=white), LightGBM, CatBoost  
 - **Data Preprocessing:** Pandas, NumPy, Seaborn  
-- **NLP:** NLTK, SpaCy, Transformers, Gensim
+- **NLP:** ALBERT, ANLTK, SpaCy, Transformers, Gensim
 
 ---
 
