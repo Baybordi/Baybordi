@@ -29,7 +29,7 @@
 ---
 
 ### ☁️ Cloud Platforms & Big Data
-- **Cloud Computing:** AWS (S3, EC2, SageMaker, Lambda), Azure  
+- **Cloud Computing:** AWS (S3, EC2, SageMaker, Lambda)
 - **Big Data:** Apache Hadoop, Apache Spark, PySpark ![PySpark](https://img.shields.io/badge/PySpark-red?style=flat&logo=apache-spark&logoColor=white)
   
 ---
@@ -38,13 +38,6 @@
 - **Power BI** ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=powerbi&logoColor=white)
 - **Tableau** ![Tableau](https://img.shields.io/badge/Tableau-blue?style=flat&logo=tableau&logoColor=white)
 - **Plotly** ![Plotly](https://img.shields.io/badge/Plotly-purple?style=flat&logo=plotly&logoColor=white)
-
----
-
-### 🔧 MLOps & Deployment
-- **Tools & Frameworks:** Docker, Kubernetes, MLflow, TensorFlow Serving, BentoML  
-- **CI/CD:** Jenkins, GitHub Actions, CircleCI  
-- **Cloud Deployment:** AWS Sagemaker, Azure Machine Learning
   
 ---
 
