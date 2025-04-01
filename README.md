@@ -29,7 +29,7 @@
 
 ### ☁️ Cloud Platforms & Big Data
 - **Cloud Computing:** AWS (S3, EC2, SageMaker, Lambda)
-- **Big Data:** Apache Hadoop, Apache Spark, PySpark ![PySpark](https://img.shields.io/badge/PySpark-red?style=flat&logo=apache-spark&logoColor=white)
+- **Big Data:** Hadoop, , PySpark ![PySpark](https://img.shields.io/badge/PySpark-red?style=flat&logo=apache-spark&logoColor=white)
   
 ---
 
