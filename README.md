@@ -5,6 +5,7 @@
 🔹 **Microsoft Power BI Data Analyst Associate (PL-300) – via Coursera, issued by Microsoft**
 ---
 🔹 **Data Scientist | Machine Learning Engineer | MLOps Enthusiast** 
+---
 🔹 **Passionate about AI, Deep Learning, and Scalable Data Solutions**  
 🔹 **Experienced in Python, Machine Learning, Cloud Deployment & Automation**  
 
