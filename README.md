@@ -92,5 +92,7 @@
 </details>
 
 ---
-### 🌐 Cloud Project:  
+### 🌐 Cloud Project & PowerBI Dashboard:  
 **AWS EC2 Instance** - [Link to your cloud project](http://184.73.73.101:8889/tree?)
+---
+**PowerBI Sevices** - [https://app.powerbi.com/groups/me/reports/58e7aaeb-a484-4f3d-96fc-f28cc4282fa6/4624f63d7e341548377b?experience=power-bi]
