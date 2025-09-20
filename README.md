@@ -1,10 +1,13 @@
 ## 👋 Hi there, 
 
-🔹 **Data Analyst**
+🔹 **AI Engineer**
 ---
+•	AWS Certified Machine Learning – Associate – Amazon Web Services (7th  September 2025)
+•	AWS Certified Cloud Practitioner – Amazon Web Services (26th July 2025)
+
 🔹 **Microsoft Power BI Data Analyst Associate (PL-300) – via Coursera, issued by Microsoft**
 ---
-🔹 **Data Scientist | Machine Learning Engineer | MLOps Enthusiast** 
+🔹 **Data Scientist | Machine Learning Engineer | MLOps in AWS** 
 ---
 🔹 **Passionate about AI, Deep Learning, and Scalable Data Solutions**  
 🔹 **Experienced in Python, Machine Learning, Cloud Deployment & Automation**  
@@ -13,9 +16,25 @@
 
 ## 💻 My Skills
 
-### 🧑‍💻 Programming & Scripting Languages
-- **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- **SQL** ![SQL](https://img.shields.io/badge/SQL-blue)
+### ☁️ Cloud & AI Services
+- **AWS Bedrock** (Claude 3.5 Sonnet, Titan Embeddings)  
+- **AWS Lambda, S3, ECR**  
+- **LangChain** for LLM orchestration  
+- **Vector Databases**: FAISS  
+
+### 🧑‍💻 Programming & Scripting
+- **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+- **SQL** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
+
+### 📊 Data & Visualization
+- **Power BI** ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+- **Streamlit** ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
+
+### 🔧 Other Tools
+- **Docker** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+- **GitHub/Git** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+- **Agile / Project Management**  
+
   
 ---
 
