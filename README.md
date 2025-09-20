@@ -1,6 +1,7 @@
 ## 👋 Hi there, 
 
-🔹 **AI Engineer**
+🔹**AI Engineer with aws partners**
+🔹**AI Engineer specializing in AWS Bedrock & Cloud Solutions**
 ---
 🔹📜 Certifications
 ---
