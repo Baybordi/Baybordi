@@ -1,8 +1,10 @@
 ## 👋 Hi there, 
 
 🔹**AI Engineer with aws partners**
-🔹**AI Engineer specializing in AWS Bedrock & Cloud Solutions**
 ---
+🔹**AI Engineer and MLOPs specializing in AWS Bedrock & Cloud Solutions**
+---
+
 🔹📜 Certifications
 ---
 🔹**AWS Certified Machine Learning – Associate (MLA-C01)** – *Amazon Web Services* | Sep 7, 2025  
