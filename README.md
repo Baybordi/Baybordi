@@ -2,8 +2,10 @@
 
 🔹 **AI Engineer**
 ---
-•	AWS Certified Machine Learning – Associate – Amazon Web Services (7th  September 2025)
-•	AWS Certified Cloud Practitioner – Amazon Web Services (26th July 2025)
+🔹### 📜 Certifications
+🔹 **AWS Certified Machine Learning – Associate (MLA-C01)** – *Amazon Web Services* | Sep 7, 2025  
+🔹 **AWS Certified Cloud Practitioner (CLF-C02)** – *Amazon Web Services* | Jul 26, 2025  
+
 
 🔹 **Microsoft Power BI Data Analyst Associate (PL-300) – via Coursera, issued by Microsoft**
 ---
