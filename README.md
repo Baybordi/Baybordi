@@ -9,7 +9,7 @@
 ---
 🔹**AWS Certified Machine Learning – Associate (MLA-C01)** – *Amazon Web Services* | Sep 7, 2025  
 🔹**AWS Certified Data Engineer – Associate (DEA-C01) | Oct 12, 2025
----
+
 🔹**AWS Certified Cloud Practitioner (CLF-C02)** – *Amazon Web Services* | Jul 26, 2025  
 🔹**Microsoft Power BI Data Analyst Associate (PL-300) – via Coursera, issued by Microsoft**
 ---
